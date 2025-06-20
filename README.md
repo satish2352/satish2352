@@ -26,17 +26,6 @@ I’m a **passionate developer** and a lifelong learner with a knack for writing
 
 ---
 
-## 🧑‍💻 Competitive Coding Profiles
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2310B981.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-%234285F4.svg?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%230096C7.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
