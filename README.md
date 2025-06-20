@@ -2,13 +2,17 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Techie+%7C+Coder+%7C+Bug+Hunter+%7C+Dream+Chaser)
 
-![GIF](https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif)
+---
 
-## 🧠 About Me
-- ✨ Creating bugs since **2020**
-- 📚 I'm a **Techie Nerd**
-- 🎯 Goals: Hustle to get into the **Top 0.1%**
-- 🎲 Fun fact: *If it's working, don’t touch it*
+## 🚀 About Me
+
+I’m a curious and driven developer who loves solving complex problems and building efficient, scalable solutions. Since 2020, I’ve been deeply involved in programming, debugging, and continuous learning.
+
+- 💡 Strong problem-solving mindset
+- 💻 Passionate about clean, maintainable code
+- 🧠 Quick learner, tech explorer, and team collaborator
+- 🎯 Goal: Always in pursuit of excellence – aiming for the top 0.1%
+- ⚡ Fun Fact: I don't break code… I stress-test it 😉
 
 ---
 
