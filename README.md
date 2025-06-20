@@ -1,4 +1,4 @@
-# 👋 I'm Satish Aurange
+# 👋 Hi, I'm **Satish Aurange**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Techie+%7C+Coder+%7C+Bug+Hunter+%7C+Dream+Chaser)
 
@@ -6,26 +6,27 @@
 
 ## 🚀 About Me
 
-I’m a curious and driven developer who loves solving complex problems and building efficient, scalable solutions. Since 2020, I’ve been deeply involved in programming, debugging, and continuous learning.
+I’m a **passionate developer** and a lifelong learner with a knack for writing clean, scalable, and efficient code. Since 2020, I’ve immersed myself in full-stack development, competitive programming, and open-source collaboration. I love turning ideas into reality through code and always strive for technical excellence.
 
-- 💡 Strong problem-solving mindset
-- 💻 Passionate about clean, maintainable code
-- 🧠 Quick learner, tech explorer, and team collaborator
-- 🎯 Goal: Always in pursuit of excellence – aiming for the top 0.1%
-- ⚡ Fun Fact: I don't break code… I stress-test it 😉
+- 💡  Analytical thinker who enjoys tackling real-world problems  
+- 🧑‍💻  Clean code enthusiast — believe in readability and maintainability  
+- 🚀  Rapid learner — comfortable picking up new technologies on the fly  
+- 🧠  Mindset: Always evolving, improving, and reaching higher standards  
+- 💬  Motto: *"Don’t just code, craft solutions."*  
+- ⚡  Fun Fact: I don't just debug — I interrogate the bugs till they confess 🤖
 
 ---
 
-## 🚀 Connect with Me
+## 📬 Let's Connect
 
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satish2352)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satish2352)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 ---
 
-## 👨‍💻 Coding Profiles
+## 🧑‍💻 Competitive Coding Profiles
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2310B981.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%234285F4.svg?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/)
@@ -36,36 +37,59 @@ I’m a curious and driven developer who loves solving complex problems and buil
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 💻 I Code In:
-- Python
-- PHP
-- JavaScript
-- Laravel
-- CodeIgniter
-- Django
-- Reactjs
-- Node js 
+### 💻 Languages
+- Python 🐍
+- PHP 🐘
+- JavaScript ⚡
+- SQL / MySQL
 
-### 🌐 Frontend:
-- HTML5, CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
-
-### 🔧 Backend:
-- Node.js
+### 🧰 Frameworks & Libraries
+- Laravel ⚙️
+- CodeIgniter 🔧
+- Django 🚀
+- React.js ⚛️
+- Node.js 🌐
 - Express.js
-- MongoDB
-- MySQL
 
-### ⚙️ Tools & Platforms:
-- Git / GitHub
-- VS Code
-- Postman
-- Figma
-- Linux
+### 🌐 Frontend Technologies
+- HTML5, CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- React
+
+### 🗃️ Databases
+- MongoDB 🍃
+- MySQL 🛢️
+- PostgreSQL 🐘
+
+### 🛠️ Tools & Platforms
+- Git & GitHub 🧑‍💻
+- VS Code 🎨
+- Postman 🚀
+- Figma 🖌️
+- Linux ⛓️
+
 ---
 
-*Thanks Keep coding 🚀*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satish2352&show_icons=true&theme=radical" alt="Satish's GitHub Stats" />
+</p>
+
+---
+
+## 🎯 Vision
+
+> *“Be the developer who doesn’t just write code — but leaves a legacy of clean architecture, powerful performance, and impactful systems.”*
+
+I'm striving to be in the **top 0.1% of developers** — not by luck, but through consistent effort, deep learning, and community impact.
+
+---
+
+## 🙌 Thanks for Visiting
+
+If you liked my profile, feel free to ⭐ some repos, connect with me, or drop a message.  
+**Keep learning, keep building, and never stop chasing dreams!**
