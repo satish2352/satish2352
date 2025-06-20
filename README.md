@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a **passionate developer** and a lifelong learner with a knack for writing clean, scalable, and efficient code. Since 2020, I’ve immersed myself in full-stack development, competitive programming, and open-source collaboration. I love turning ideas into reality through code and always strive for technical excellence.
+I’m a **passionate developer** and a lifelong learner with a knack for writing clean, scalable, and efficient code. Since 2012, I’ve immersed myself in full-stack development, competitive programming, and open-source collaboration. I love turning ideas into reality through code and always strive for technical excellence.
 
 - 💡  Analytical thinker who enjoys tackling real-world problems  
 - 🧑‍💻  Clean code enthusiast — believe in readability and maintainability  
@@ -70,14 +70,6 @@ I’m a **passionate developer** and a lifelong learner with a knack for writing
 - Postman 🚀
 - Figma 🖌️
 - Linux ⛓️
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish2352&show_icons=true&theme=radical" alt="Satish's GitHub Stats" />
-</p>
 
 ---
 
